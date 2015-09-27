@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf3c06a-f655-4ca0-a422-7f39dbd6f236" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfile2" afterPath="$PROJECT_DIR$/myfile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfile" afterPath="$PROJECT_DIR$/myfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfile3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testGithub.iws" />
@@ -30,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="myfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08614865" vertical-offset="0" max-vertical-offset="592">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
               <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myfile3" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myfile3">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -68,6 +77,7 @@
       <list>
         <option value="$PROJECT_DIR$/myfile" />
         <option value="$PROJECT_DIR$/myfile2" />
+        <option value="$PROJECT_DIR$/myfile3" />
       </list>
     </option>
   </component>
@@ -397,7 +407,7 @@
       <option name="number" value="Default" />
       <updated>1443367688335</updated>
       <workItem from="1443367692200" duration="1817000" />
-      <workItem from="1443392676639" duration="296000" />
+      <workItem from="1443392676639" duration="775000" />
     </task>
     <task id="LOCAL-00001" summary="comit test1">
       <created>1443392855121</created>
@@ -411,11 +421,17 @@
       <option name="project" value="LOCAL" />
       <updated>1443392943157</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="comit test 3">
+      <created>1443392986546</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1443392986546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2113000" />
+    <option name="totallyTimeSpent" value="2592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -467,7 +483,8 @@
     </option>
     <MESSAGE value="comit test1" />
     <MESSAGE value="comit test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit test2" />
+    <MESSAGE value="comit test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -499,8 +516,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08614865" vertical-offset="0" max-vertical-offset="592">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfile3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
